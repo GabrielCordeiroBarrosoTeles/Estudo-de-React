@@ -1,4 +1,3 @@
-# Estudo de React
 React é uma biblioteca JavaScript muito popular para construir interfaces de usuário interativas. Aqui estão os passos básicos para começar:
 
 1. **Configuração do Ambiente de Desenvolvimento:**
@@ -362,9 +361,7 @@ Claro! Aqui estão 15 exercícios de React com enunciados e explicações coment
        <div>
          <h2>Dados da API:</h2>
          <ul>
-           {dados
-
-.map((item, index) => (
+           {dados.map((item, index) => (
              <li key={index}>{item.nome}</li>
            ))}
          </ul>
