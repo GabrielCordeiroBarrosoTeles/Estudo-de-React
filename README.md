@@ -1,4 +1,4 @@
-#Estudo de React
+# Estudo de React
 
 React é uma biblioteca JavaScript muito popular para construir interfaces de usuário interativas. Aqui estão os passos básicos para começar:
 
