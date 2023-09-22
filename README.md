@@ -1,3 +1,5 @@
+#Estudo de React
+
 React é uma biblioteca JavaScript muito popular para construir interfaces de usuário interativas. Aqui estão os passos básicos para começar:
 
 1. **Configuração do Ambiente de Desenvolvimento:**
@@ -130,7 +132,7 @@ React é uma biblioteca JavaScript muito popular para construir interfaces de us
 
 Esses são os conceitos básicos para começar com React. À medida que você se torna mais familiarizado com a biblioteca, pode explorar recursos mais avançados, como gerenciamento de estado global (Redux, MobX), autenticação, e integração com APIs. React é uma tecnologia poderosa e em constante evolução, por isso é importante manter-se atualizado com as práticas recomendadas e as últimas novidades. Boa sorte com seus projetos React!
 
-Claro! Aqui estão 15 exercícios de React com enunciados e explicações comentadas no código para cada um deles:
+15 exercícios de React com enunciados e explicações comentadas no código para cada um deles:
 
 1. **Renderizar um Componente Simples:**
    
